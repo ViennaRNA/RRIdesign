@@ -21,7 +21,7 @@ $ conda activate rridesign
 The jupyter notbook with the design approach and example files can be downloaded
 from https://github.com/ViennaRNA/RRIdesign, e.g., with git clone:
 ```
-$ git clone git@github.com:mwaldl/RRIdesign.git
+$ git clone git@github.com:ViennaRNA/RRIdesign.git
 ```
 
 To run the Jupyter notebook, ensure a notebook interface is installed, e.g., Jupyter-Lab via Conda:
